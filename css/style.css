@@ -1,0 +1,43 @@
+body
+{
+margin:0 auto;
+}
+
+.navbarbg
+{
+background-color:#ededed;
+}
+
+.marginauto
+{
+margin:0 auto;	
+}
+
+@font-face {
+    font-family: signature;
+    src: url(../fonts/signature.ttf);
+}
+
+@font-face {
+    font-family: dancing;
+    src: url(../fonts/DancingScript-Regular.ttf);
+}
+
+.login
+{	
+text-align:center;	
+font-family:signature;
+font-size:6.5em;
+}
+
+.reportfont
+{
+text-align:center;	
+font-family:dancing;
+font-size:3.5em;	
+}
+
+.page-footer
+{
+background-color:#ededed!important;
+}
